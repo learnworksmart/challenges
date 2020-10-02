@@ -1,0 +1,2 @@
+- name: Harden Apache web server
+  import_tasks: harden_apache2.yml

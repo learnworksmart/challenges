@@ -1,0 +1,10 @@
+- name: Remove Apache2 Web Server Version Banner
+  lineinfile:
+    path: /etc/apache2/conf-enabled/security.conf
+    regexp: '^#?{{ item.key }}'
+    line: "{{ item.key }} {{ item.value }}"
+    state: present
+  with_items:
+    - { key: "ServerTokens", value: "Prod" }
+    - { key: "ServerSignature", value: "Off" }
+  notify: restart apache2

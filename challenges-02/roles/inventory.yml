@@ -1,0 +1,6 @@
+webserver:
+  hosts:
+   54.255.67.27: #<provide the EC2 ip which meant to be webserver>
+  vars:
+    ansible_user: ubuntu #common login username for access the Ubuntu EC2 instances
+    ansible_python_interpreter: /usr/bin/python3
