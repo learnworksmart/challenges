@@ -2,7 +2,9 @@
 
 Visit to this YouTube and find out on what the challenge is about? 
 ```
-<to be provided>
+Are you able to use InSpec and check on whether
+(1) docker has been installed and 
+(2) the container hosting our sample web application is running?
 ```
 
 ## Answer
