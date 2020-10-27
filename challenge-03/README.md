@@ -1,6 +1,6 @@
 # Challenge 3 
 
-Visit to this YouTube and find out on what the challenge is about? 
+Visit to this [YouTube](https://www.youtube.com/watch?v=WKAFs5vemFE) and find out on what the challenge is about? 
 ```
 Are you able to use InSpec and check on whether
 (1) docker has been installed and 

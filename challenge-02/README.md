@@ -1,6 +1,6 @@
 # Challenge 2 
 
-Visit to this YouTube and find out on what the challenge is about? 
+Visit to this [YouTube](https://www.youtube.com/watch?v=n0Lhyf0T9yo&t=93s) and find out on what the challenge is about? 
 ```
 Are you able to use Ansible and apply the required changes for hiding the Apache web version?
 ```

@@ -1,6 +1,6 @@
 # Challenge 1 
 
-Watch this YouTube video and find out on what the challenge is about? 
+Watch this [YouTube video](https://www.youtube.com/watch?v=YJFY0zdj9zw&t=18s) and find out on what the challenge is about? 
 ```
 Are you able to use Terraform and provision the AWS environment needed for this Ansible exercise?
 ```
